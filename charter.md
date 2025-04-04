@@ -27,26 +27,27 @@ The Working Group is composed of the following managers and participants:
 ### Managers
 
 - Atsushi Nakatsugawa  
-- Priyanka Shrimali
-- Thiago Gil
 - Yufeng Guo
-- Ariana Faustini
 
 ### Participants
+
 - Your name here  
 
 ### Working Group Profiles
-#### Atsushi Nakatsugawa  
+
+#### Atsushi Nakatsugawa
+
 Atsushi runs his business, MOONGIFT, which has been providing DevRel as a service in Japan since 2014. He is the representative director of the general incorporated association DevRel in Japan and has been leading the DevRel/Tokyo community since 2015. He has also organized the DevRelCon Tokyo series since 2017. Recently, he managed a community called DevRel Meetup in Bengaluru, India.
 
-#### Your Name Here  
+#### Yufeng Guo
+
 Your profile here.  
 
 ## Roles & Responsibilities
 
 | **Role Name** | **Assigner Name** |
 |--------------|------------------|
-| Role name | Assigner name |
+| Role name | Atsushi Nakatsugawa |
 | Role name | Assigner name |
 
 ## Meetings
@@ -54,6 +55,7 @@ Your profile here.
 - **Frequency:** Weekly online call (TBD)
 
 ## Critical Annual Activities  
+
 Examples include:  
 - Budget and financial planning  
 - Meeting scheduling  
